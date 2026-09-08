@@ -1,7 +1,7 @@
 # AA  Finding the Hypotenuse of a Right Triangle Using the Math library
 ### Description = asks for 2 the shorter angle and the 2nd shorter angle and uses math to find the hypotenuse
 ### How to Run
-Explain how to open and run the program.
+open pycharm, do the code and run it
 ### Input Needed = short angle and 2nd shorter angle
 ### Sample Output:
 import math
